@@ -211,7 +211,7 @@ const styles = StyleSheet.create({
         borderBottomColor: theme.colors.border,
     },
     dayTitle: { fontSize: theme.fontSize.md, fontWeight: '700', color: theme.colors.text, marginLeft: theme.spacing.sm },
-    slotsGrid: { flexDirection: 'row', flexWrap: 'wrap', gap: 8 },
+    slotsGrid: { flexDirection: 'row', flexWrap: 'wrap', gap: 10 },
     slot: {
         backgroundColor: theme.colors.primaryLight,
         paddingVertical: theme.spacing.sm,
