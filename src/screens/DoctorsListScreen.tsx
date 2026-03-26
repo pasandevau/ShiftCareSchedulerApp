@@ -91,7 +91,7 @@ export default function DoctorsListScreen() {
                         </View>
                         <View style={styles.doctorInfo}>
                             <Text style={styles.doctorName}>{item}</Text>
-                            <Text style={styles.doctorSubtext}>Tap to view availability</Text>
+                            <Text style={styles.doctorSubtext}>Tap to check availability</Text>
                         </View>
                         <Ionicons name="chevron-forward" size={20} color={theme.colors.textLight} />
                     </TouchableOpacity>
