@@ -197,7 +197,7 @@ const styles = StyleSheet.create({
         alignItems: 'center',
     },
     bookingInfo: { flex: 1 },
-    doctorName: { fontSize: theme.fontSize.md, fontWeight: '700', color: theme.colors.text, marginBottom: 4 },
+    doctorName: { fontSize: theme.fontSize.md, fontWeight: '700', color: theme.colors.text, marginBottom: 6 },
     bookingDetail: { flexDirection: 'row', alignItems: 'center', gap: 4, marginTop: 2 },
     bookingDay: { fontSize: theme.fontSize.sm, color: theme.colors.textSecondary },
     bookingTime: { fontSize: theme.fontSize.sm, color: theme.colors.primary, fontWeight: '600' },
